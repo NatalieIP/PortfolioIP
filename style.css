@@ -249,9 +249,13 @@ float: right;
     border-radius: 20px;
  }
 
+ .layout-left4 {
+    margin: 15px;
+ }
+
  .layout-right3 {
     width: 50%;
-    
+
  }
 
  .layout-left3 {
@@ -298,20 +302,22 @@ float: right;
     border-radius: 10px;
 
 }
-
 .box-8 {
-    background-color: aqua;
+    border-radius: 10px;
 }
 
 .contact-1 {
 text-align: center;
 box-sizing: border-box;
+
 }
 
 .heading {
     text-align: center;
     font-size: xx-large;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: aliceblue;
+    
 }
 
 .help {
@@ -319,3 +325,20 @@ box-sizing: border-box;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.white-start1 {
+    background-color:blue;
+    width: 85%;
+    height: 300px;
+    padding: 90px;
+    border-radius: 30px;  
+}
+
+.myself {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
+
+.paragraph6 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 10px;
+}
