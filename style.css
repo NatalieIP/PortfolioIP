@@ -117,4 +117,205 @@ h3 {
     
 }
 
+/* portfolio */
+.white-start { 
+    background-color: white;
+    width: 85%;
+    height: 300px;
+    padding: 90px;
+    border-radius: 20px;   
+
+}
+
+.column2 {
+    position: absolute;
+    right: 0px;
+   
+
+}
+
+.body {
+  background-color:gray;
+}
+
+.box-2 {
+    /* float: right; */
+  width: 100%;
+  height: 500px;
+  /* padding: 50px; */
+  /* box-sizing: border-box; */
+  border-radius: 20px;
+}
+
+.Tonic ::after{
+    clear: both;
+    display: table;
+    /* sfloat: right; */
+}
+
+.canopy {
+    word-spacing: 30px;
+    
+}
+
+
+.living-room  {
+    width: 550px;
+    height: 400px;
+    float:right;
+    padding: 1px;
+    margin: 30px;
+    image-orientation: from-image;
+ 
+}
+
+.room {
+   width: 50%; 
+}
+
+.layout-left {
+    width: 50%;
+    float:right;
+ }
+
+ .layout-right {
+    width: 50%;
+    
+ }
+
+.Facebook{
+    word-spacing: 30px;
+}
+
+ .box-3 {
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+ }
+
+ .layout-right1 {
+    width: 50%;
+ }
+
+ .bottles {
+    width: 400px;
+    height: 450px;
+float: right;
+    padding: 10px;
+    margin: 20px;
+    image-orientation: from-image;
+ }
+
+ .layout-left1 {
+    width: 50%;
+    margin: 25px;
+    padding: 30px;
+
+ }
+
+ .box-4 {
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+ }
+
+ 
+ .layout-left2 {
+    width: 50%;
+   float: right;
+
+ }
+
+ .layout-right2 {
+    width: 50%;
+    
+ }
+
+ .summer {
+    width: 550px;
+    height: 420px;
+    padding: 20px;
+    margin: 15px;
+    image-orientation: from-image;
+ }
+
+ .uber {
+    word-spacing: 50px;
+}
+
+.box-5 {
+    width: 100%;
+    height: 500px;
+    border-radius: 20px;
+ }
+
+ .layout-right3 {
+    width: 50%;
+    
+ }
+
+ .layout-left3 {
+    width: 50%;
+    margin: 25px;
+    padding: 30px;
+
+ }
+
+
+.list {
+    width: 400px;
+    height: 450px;
+float: right;
+    padding: 1px;
+    margin: 20px;
+    image-orientation: from-image;
+ }
+
+.box-6 {
+    width: 100%;
+    height: 500px;
+    border-radius: 30px;
+}
+
+.layout-right4 {
+    width: 50%;
+    float: right;
+    margin: 15px;
+    padding: 10px;
+}
+
+.apps {
+    width: 350px;
+    height: 300px;
+    margin-bottom: 15px;
+    padding-bottom: 20px;
+    float: right;
+}
+
+.box-7 {
+    width: 100%;
+    height: 500px;
+    border-radius: 10px;
+
+}
+
+.box-8 {
+    background-color: aqua;
+}
+
+.contact-1 {
+text-align: center;
+box-sizing: border-box;
+}
+
+.heading {
+    text-align: center;
+    font-size: xx-large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.help {
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 
